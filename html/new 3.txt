@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Border</title>
+</head>
+<body>
+<p>Agon Gashi</p>
+<p style-"border-style: solid">Agon Gashi</p>
+<p style-"border-style: solid; border-color:red;background-color: blue; color:white; text-align: center">Agon Gashi</p>
+<p style-"border-style: solid; border-radius: 100px">Agon Gashi</p>
+<p style-"border: 6px solid green; border-radius: 30px">Agon Gashi</p>
+<p style="border: 5px solid red; margin: 30px">Agon Gashi</p>
+<p style="border: 5px solid red; margin-left: 30px">Agon Gashi</p>
+<p style="border: 5px solid red; margin:auto; width: 300px; text-align:center">Agon Gashi</p>
+<p style="border: 5px solid red; margin: auto; width: 300px; padding-top: 100px; padding-left: 50px">Agon Gashi</p>
+<center>
+<img src="background.jpg" height="200px" width="200px" style="matgin-top: 400px"
+</center>
+</body>
+</html>
